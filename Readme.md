@@ -69,19 +69,19 @@ Contains:
 
 ## Visualizations
 
+## Visualizations
+
 ### Average Profit by Market Sentiment
 
-![Average Profit](images/profit_by_sentiment.png.png)
+![Average Profit](profit_by_sentiment.png.png)
 
 ### Win Rate by Market Sentiment
 
-![Win Rate](images/win_rate_by_sentiment.png.png)
+![Win Rate](win_rate_by_sentiment.png.png)
 
-### Trade Size Analysis
+### Number of Trades by Sentiment
 
-![Trade Size](images/trade_size_analysis.png.png)
-
-
+![Number of Trades](number_of_trades.png.png)
 
 ### Profitability Analysis
 
